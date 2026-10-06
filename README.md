@@ -24,3 +24,9 @@ Sistem Manajemen Perpustakaan berbasis Laravel untuk UTS Pemrograman Web III.
 
 ```bash
 php artisan serve
+
+## Pengembang
+
+Project ini dibuat untuk memenuhi UTS Pemrograman Web III
+Program Studi D3 Manajemen Informatika
+Universitas Sriwijaya.
